@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @InsainerPayne
+- 👀 I’m interested in Game development
+- 🌱 I’m currently learning Data science
+- 💞️ I’m looking to collaborate on anyprojects related to data science or game development
+- 📫 How to reach me on mail ayushraj.027@gmail.com
